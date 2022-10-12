@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+/OLED/SSD1315/STC8F2K60S4/Objects
+/OLED/SSD1315/STC8F2K60S4/Listings
+/OLED/SSD1315/STC8F2K60S4/C51.uvgui.*
+/OLED/SSD1315/STC8F2K60S4/C51.uvopt
